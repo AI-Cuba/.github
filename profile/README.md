@@ -1,4 +1,4 @@
-# AI-Cuba
+# AI Cuba
 
 ## Introducción
 Bienvenidos a **AI-Cuba**, una organización dedicada a aglutinar a todos los investigadores de Inteligencia Artificial en Cuba. Nuestro objetivo es crear un espacio colaborativo para académicos, investigadores de centros de investigación e industria, donde se pueda compartir información, datos, resultados de investigación y código.
