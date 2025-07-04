@@ -18,4 +18,4 @@ Todos los interesados en la investigación en IA son bienvenidos a unirse a AI-C
 - **Asistiendo a eventos**: Mantente informado sobre nuestros próximos eventos y participa activamente.
 
 ## Contacto
-Para más información o para unirte a nuestra organización, por favor o visita nuestro [sitio web](ai-cuba.github.io).
+Para más información o para unirte a nuestra organización, por favor o visita nuestro [sitio web](https://aicuba.org).
